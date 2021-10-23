@@ -1,0 +1,182 @@
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\ApplicationInsights.config
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\csc.exe
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\vbc.exe
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\VBCSCompiler.exe
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\TrabajoFinalWeb.dll.config
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\TrabajoFinalWeb.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\TrabajoFinalWeb.pdb
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Antlr3.Runtime.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\EntityFramework.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\EntityFramework.SqlServer.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.Web.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.ApplicationInsights.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Google.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Twitter.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Newtonsoft.Json.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Owin.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Helpers.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Mvc.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Optimization.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Razor.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.Deployment.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.Razor.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\WebGrease.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.pdb
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.Web.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.ApplicationInsights.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Helpers.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Mvc.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Optimization.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Razor.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.Deployment.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.Razor.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Antlr3.Runtime.pdb
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Newtonsoft.Json.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\EntityFramework.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\EntityFramework.SqlServer.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Google.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Twitter.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csprojAssemblyReference.cache
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CoreCompileInputs.cache
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CopyComplete
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.dll
+F:\La-Lucha-Carrito-de-Compras-master\LaLucha_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.pdb
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\ApplicationInsights.config
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\csc.exe
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\vbc.exe
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\VBCSCompiler.exe
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\TrabajoFinalWeb.dll.config
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\TrabajoFinalWeb.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\TrabajoFinalWeb.pdb
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Antlr3.Runtime.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\EntityFramework.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\EntityFramework.SqlServer.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.Web.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.ApplicationInsights.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Google.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Newtonsoft.Json.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Owin.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Helpers.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Mvc.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Optimization.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Razor.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.Deployment.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.Razor.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\WebGrease.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.pdb
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Gma.QrCodeNet.Encoding.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.Web.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.ApplicationInsights.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Helpers.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Mvc.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Optimization.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.Razor.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.Deployment.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\System.Web.WebPages.Razor.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Antlr3.Runtime.pdb
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Newtonsoft.Json.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\EntityFramework.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\EntityFramework.SqlServer.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Google.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csprojAssemblyReference.cache
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CoreCompileInputs.cache
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CopyComplete
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.dll
+F:\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.pdb
+C:\Users\alexa\Desktop\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.dll
+C:\Users\alexa\Desktop\Marisqueria pez cojo\Marisqueria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.pdb
+C:\Users\alexa\Desktop\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.dll
+C:\Users\alexa\Desktop\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.pdb
