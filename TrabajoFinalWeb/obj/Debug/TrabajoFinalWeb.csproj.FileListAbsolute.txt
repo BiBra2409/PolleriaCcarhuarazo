@@ -180,3 +180,7 @@ C:\Users\alexa\Desktop\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalW
 C:\Users\alexa\Desktop\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CoreCompileInputs.cache
 C:\Users\alexa\Desktop\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.dll
 C:\Users\alexa\Desktop\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.pdb
+E:\UC\Procesos de Software\Proyecto Polleria\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csprojAssemblyReference.cache
+E:\UC\Procesos de Software\Proyecto Polleria\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.csproj.CoreCompileInputs.cache
+E:\UC\Procesos de Software\Proyecto Polleria\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.dll
+E:\UC\Procesos de Software\Proyecto Polleria\Polleria  ccarhuarazo\Polleria_CodigoFuente\TrabajoFinalWeb\obj\Debug\TrabajoFinalWeb.pdb
